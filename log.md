@@ -18,4 +18,14 @@
 **Link(s) to work**: [Github Link](https://github.com/CLNandeesh/WebDevChallenge/tree/master/CSS)
 
 
+### Day 3: 09, June 2021 
+
+
+**Today's Progress**: Continued CSS basics.
+
+**Thoughts**: I learnt to create HTML form and to provide style to it.
+
+**Link(s) to work**: [Github Link](https://github.com/CLNandeesh/WebDevChallenge/tree/master/CSS)
+
+
 
