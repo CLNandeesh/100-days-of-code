@@ -46,5 +46,15 @@
 
 **Link(s) to work**: [Github Link](https://github.com/CLNandeesh/WebDevChallenge)
 
+### Day 6: 12, June 2021 
+
+
+**Today's Progress**: Learnt Registartion form in HTML.
+
+**Thoughts**: I learnt createing Registartion form using HTML.
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge)
+
 
 
