@@ -56,5 +56,15 @@
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge)
 
+### Day 7: 13, June 2021 
+
+
+**Today's Progress**: Learnt Float, Positioning and Pseudo classes in HTML and CSS.
+
+**Thoughts**: I learnt Float, Positioning and Pseudo classes in HTML and CSS.
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge)
+
 
 
