@@ -66,5 +66,15 @@ https://github.com/CLNandeesh/WebDevChallenge)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge)
 
+### Day 8: 14, June 2021 
+
+
+**Today's Progress**: Learnt Demo site using HTML and CSS.
+
+**Thoughts**: I learnt Demo site using HTML and CSS.
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge)
+
 
 
