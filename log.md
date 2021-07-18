@@ -97,5 +97,16 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress/Day4Websit
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 11: 18, June 2021 
+
+
+**Today's Progress**: Learnt Flexbox in CSS playing mastery games.
+
+**Thoughts**: Played Mastrey games for flexbox.
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
+
 
 
