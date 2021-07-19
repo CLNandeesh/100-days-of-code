@@ -107,6 +107,16 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 12: 19, June 2021 
+
+
+**Today's Progress**: Frontend mentor challenge demo site creation
+
+**Thoughts**:Frontend mentor challenge demo site creation
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
 
 
 
