@@ -128,6 +128,17 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 14: 21, June 2021 
+
+
+**Today's Progress**: Css Grid
+
+**Thoughts**:Learnt CSS Grid
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
+
 
 
 
