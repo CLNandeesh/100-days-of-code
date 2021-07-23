@@ -149,6 +149,16 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 16: 23, June 2021 
+
+
+**Today's Progress**: Image CSS grid creation
+
+**Thoughts**:Learnt Image CSS grid creation
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
 
 
 
