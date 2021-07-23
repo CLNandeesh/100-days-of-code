@@ -139,7 +139,7 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
 
-### Day 15: 21, June 2021 
+### Day 15: 22, June 2021 
 
 
 **Today's Progress**: Css Grid demo site creation
