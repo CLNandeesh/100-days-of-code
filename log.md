@@ -180,6 +180,26 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 19: 26, June 2021 
+
+
+**Today's Progress**: Started learning Java script
+
+**Thoughts**:Started learning Java script
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
+### Day 20: 27, June 2021 
+
+
+**Today's Progress**: Started learning Java script
+
+**Thoughts**:Learnt Started learning Java script
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
 
 
 
