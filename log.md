@@ -200,6 +200,16 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 **Link(s) to work**: [Github Link](
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
+### Day 21: 28, June 2021 
+
+
+**Today's Progress**: Java script cont...
+
+**Thoughts**:Learnt Java script Loops/Conditional statement/Operators/Switch
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
 
 
 
