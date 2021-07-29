@@ -211,6 +211,17 @@ https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
 
 
+### Day 22: 29, June 2021 
+
+
+**Today's Progress**: Java script functions and DOM 
+
+**Thoughts**:Learnt Java script functions and DOM 
+
+**Link(s) to work**: [Github Link](
+https://github.com/CLNandeesh/WebDevChallenge/tree/master/DayProgress)
+
+
 
 
 
